@@ -1,4 +1,4 @@
-Create table videos(id int, name text, created_at date, published boolean);
+Create table videos(id INTEGER, name TEXT, created_at DATE, published BOOLEAN);
 
 
 
